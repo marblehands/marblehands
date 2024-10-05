@@ -2,7 +2,7 @@
 
 - 🔭 I am Ania, engaged and enthusiastic frontend developer with a strong background in web interface design.
 - 🌱 [RS School](https://rs.school/) alumni
-- 📫 Feel free to connect with me via [@telegram](https://t.me/erkhinadev)
+- 📫 Feel free to connect with me via [@telegram](https://t.me/annahun)
 
 #### 🧰 Languages & Tools
 
@@ -18,7 +18,7 @@
 
 #### 🔭 My latest projects
 
-- [E-commerce NASA Store](https://nasa-02-sprint-two--nasa-shop.netlify.app/home) (SPA, React, TS, SCSS, React Router, React Hook Forms, Zod) work in progress..
+- [E-commerce NASA Store](https://nasa-shop.netlify.app/home) (SPA, React, TS, SCSS, React Router, React Hook Forms, Zod)
 - [English Puzzles Game](https://marblehands-jsfe2023q4-rss-puzzle.netlify.app/) (SPA, TS, CSS)
 - [Nonograms Game](https://rolling-scopes-school.github.io/marblehands-JSFE2023Q4/nonograms/) (JS, HTML, CSS)
 - [Hangman Game](https://rolling-scopes-school.github.io/marblehands-JSFE2023Q4/hangman/) (JS, HTML, CSS)
